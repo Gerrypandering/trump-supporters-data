@@ -265,8 +265,8 @@
     title: sen
 - events:
     post-video:
-      position: STEP_DOWN
-      source: https://web.archive.org/web/20161009014351/https:/twitter.com/MikeCrapo/status/784773920192798720
+      position: STEP_DOWN_FLIPPED
+      source: https://web.archive.org/web/20161025031818/http://crapoforsenate.com/senator-crapo-says-will-vote-trump-president/
     pre-video:
       position: SUPPORTING
       source: https://web.archive.org/web/20160721114350/http://www.kmvt.com/content/news/Sen-Crapo-congratulates-Trump-on-GOP-presidential-nomination-387655192.html
