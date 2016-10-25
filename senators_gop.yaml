@@ -1,0 +1,650 @@
+---
+- events:
+    post-video:
+      position: CONDEMN_SUPPORTING
+      source: https://web.archive.org/web/20161010042507/http://www.timesfreepress.com/news/breakingnews/story/2016/oct/08/corker-condemns-trump-comments/390891/
+    pre-video:
+      position: SUPPORTING
+      source: https://web.archive.org/web/20161010042507/http://www.timesfreepress.com/news/breakingnews/story/2016/oct/08/corker-condemns-trump-comments/390891/
+  profile:
+    id: C001071
+    name: Bob Corker
+    state: TN
+    title: sen
+- events:
+    post-video:
+      position: CONDEMN_SUPPORTING
+      source: https://web.archive.org/web/20161010042932/https://twitter.com/SenOrrinHatch/status/784583480512577542
+    pre-video:
+      position: SUPPORTING
+      source: https://web.archive.org/web/20160609100711/http://thehill.com/blogs/ballot-box/presidential-races/279726-gop-sen-hatch-endorses-trump
+  profile:
+    id: H000338
+    name: Orrin G. Hatch
+    state: UT
+    title: sen
+- events:
+    post-video:
+      position: UNKNOWN
+      source: ''
+    pre-video:
+      position: SUPPORTING
+      source: https://web.archive.org/web/20161010043706/http://trib.com/news/state-and-regional/govt-and-politics/wyoming-s-d-c-delegation-backing-trump/article_e2e7e311-7da9-5c66-81ef-45a423fc4d2e.html
+  profile:
+    id: B001261
+    name: John Barrasso
+    state: WY
+    title: sen
+- events:
+    post-video:
+      position: CONDEMN_SUPPORTING
+      source: http://www.wtva.com/news/local/396439391.html
+    pre-video:
+      position: SUPPORTING
+      source: https://web.archive.org/web/20161010044029/https://twitter.com/RogerWicker/status/783456693787111424
+  profile:
+    id: W000437
+    name: Roger F. Wicker
+    state: MS
+    title: sen
+- events:
+    post-video:
+      position: CONDEMN_SUPPORTING
+      source: http://www.tennessean.com/story/news/politics/2016/10/10/lamar-alexander-donald-trump-driving-presidential-campaign-new-low/91866326/
+    pre-video:
+      position: SUPPORTING
+      source: https://web.archive.org/web/20160705125240/http://wjhl.com/2016/05/04/top-tn-u-s-senator-is-not-declaring-endorsement-for-donald-trump/
+  profile:
+    id: A000360
+    name: Lamar Alexander
+    state: TN
+    title: sen
+- events:
+    post-video:
+      position: CONDEMN_SUPPORTING
+      source: http://www.clarionledger.com/story/news/politics/2016/10/10/mississippi-trump-delegation/91866072/
+    pre-video:
+      position: SUPPORTING
+      source: https://web.archive.org/web/20161008031118/http://www.jacksonfreepress.com/news/2016/may/05/lott-trump-sucked-all-oxygen-out-gop-opponents/
+  profile:
+    id: C000567
+    name: Thad Cochran
+    state: MS
+    title: sen
+- events:
+    post-video:
+      position: NOT_SUPPORTING
+      source: https://web.archive.org/web/20161010045335/https://www.collins.senate.gov/newsroom/senator-collins%E2%80%99-statement-donald-trump%E2%80%99s-remarks
+    pre-video:
+      position: NOT_SUPPORTING
+      source: https://web.archive.org/web/20161010045557/https://www.washingtonpost.com/opinions/gop-senator-why-i-cannot-support-trump/2016/08/08/821095be-5d7e-11e6-9d2f-b1a3564181a1_story.html?utm_term=.8f90f6eb8b04
+  profile:
+    id: C001035
+    name: Susan M. Collins
+    state: ME
+    title: sen
+- events:
+    post-video:
+      position: CONDEMN_SUPPORTING
+      source: https://web.archive.org/web/20161010050129/https://twitter.com/JohnCornyn/status/784777415692263428
+    pre-video:
+      position: SUPPORTING
+      source: https://web.archive.org/web/20161009075946/http://www.politico.com/story/2016/05/gop-senators-donald-trump-223010
+  profile:
+    id: C001056
+    name: John Cornyn
+    state: TX
+    title: sen
+- events:
+    post-video:
+      position: CONDEMN_SUPPORTING
+      source: http://www.wyomingnews.com/news/wyoming-leaders-condemn-trump-s-comments-still-endorse-him/article_06875000-8f78-11e6-90b8-33b779afc506.html
+    pre-video:
+      position: SUPPORTING
+      source: https://web.archive.org/web/20160919215757/http://wyomingpublicmedia.org/post/trump-woos-wyomings-delegation
+  profile:
+    id: E000285
+    name: Michael B. Enzi
+    state: WY
+    title: sen
+- events:
+    post-video:
+      position: NOT_SUPPORTING
+      source: https://web.archive.org/web/20161010052012/https:/twitter.com/LindseyGrahamSC/status/784760675763625984
+    pre-video:
+      position: NOT_SUPPORTING
+      source: https://web.archive.org/web/20160818035219/http://www.cnn.com/2016/05/22/politics/donald-trump-lindsey-graham-republican-party/
+  profile:
+    id: G000359
+    name: Lindsey Graham
+    state: SC
+    title: sen
+- events:
+    post-video:
+      position: CONDEMN_SUPPORTING
+      source: https://web.archive.org/web/20161010042843/https://www.facebook.com/jiminhofeforsenate/posts/10155325880173626
+    pre-video:
+      position: SUPPORTING
+      source: https://web.archive.org/web/20161008091601/http://www.koco.com/article/gov-mary-fallin-endorses-trump-s-presidential-bid-welcomes-vp-talk/4309624
+  profile:
+    id: I000024
+    name: James M. Inhofe
+    state: OK
+    title: sen
+- events:
+    post-video:
+      position: CONDEMN_SUPPORTING
+      source: https://web.archive.org/web/20161009143515/http://www.rollcall.com/news/politics/ryan-sickened-trump-remarks
+    pre-video:
+      position: SUPPORTING
+      source: https://web.archive.org/web/*/http://thehill.com/blogs/blog-briefing-room/news/278792-mcconnell-will-support-trump
+  profile:
+    id: M000355
+    name: Mitch McConnell
+    state: KY
+    title: sen
+- events:
+    post-video:
+      position: UNKNOWN
+      source: ''
+    pre-video:
+      position: SUPPORTING
+      source: ''
+  profile:
+    id: R000584
+    name: James E. Risch
+    state: ID
+    title: sen
+- events:
+    post-video:
+      position: CONDEMN_SUPPORTING
+      source: https://web.archive.org/web/20161009160602/http://cjonline.com/news/2016-10-08/kansas-republicans-call-donald-trumps-comments-disgusting-offensive-and-indefensible
+    pre-video:
+      position: SUPPORTING
+      source: https://web.archive.org/web/20160818044701/http://cjonline.com/news/2016-08-10/sen-pat-roberts-makes-clear-he-still-supports-donald-trump-hes-unique-thats-sure
+  profile:
+    id: R000307
+    name: Pat Roberts
+    state: KS
+    title: sen
+- events:
+    post-video:
+      position: DEFEND
+      source: https://web.archive.org/web/20161010060537/http://www.politico.com/story/2016/10/sessions-media-trump-video-229434
+    pre-video:
+      position: SUPPORTING
+      source: https://web.archive.org/web/20161006170603/http://www.cnn.com/2016/02/28/politics/donald-trump-jeff-sessions-endorsement/
+  profile:
+    id: S001141
+    name: Jeff Sessions
+    state: AL
+    title: sen
+- events:
+    post-video:
+      position: NOT_SUPPORTING
+      source: https://web.archive.org/web/20161009085637/https:/twitter.com/kellyayotte/status/784779876796665857
+    pre-video:
+      position: SUPPORTING
+      source: https://web.archive.org/web/20160826232822/https://www.washingtonpost.com/news/powerpost/wp/2016/08/22/sen-kelly-ayotte-is-stuck-between-donald-trump-and-a-hard-place/
+  profile:
+    id: A000368
+    name: Kelly Ayotte
+    state: NH
+    title: sen
+- events:
+    post-video:
+      position: CONDEMN_SUPPORTING
+      source: https://web.archive.org/web/20161010061404/http://www.news-leader.com/story/news/politics/elections/2016/10/08/blunt-trumps-remarks-inappropriate-still-voting-him/91794224/
+    pre-video:
+      position: SUPPORTING
+      source: https://web.archive.org/web/20161010062032/http://www.rightwingwatch.org/post/after-meeting-with-trump-roy-blunt-says-hes-for-him/
+  profile:
+    id: B000575
+    name: Roy Blunt
+    state: MO
+    title: sen
+- events:
+    post-video:
+      position: CONDEMN_SUPPORTING
+      source: https://web.archive.org/web/20161009134235/http://www.cbsnews.com/news/which-republicans-condemned-donald-trump-but-wont-withdraw-their-endorsements/
+    pre-video:
+      position: SUPPORTING
+      source: https://web.archive.org/web/20160805051910/http://www.arktimes.com/ArkansasBlog/archives/2016/08/02/sen-john-boozman-donald-trumps-comments-out-of-line-and-unnecessary-but-boozman-supports-him-anyways
+  profile:
+    id: B001236
+    name: John Boozman
+    state: AR
+    title: sen
+- events:
+    post-video:
+      position: CONDEMN_SUPPORTING
+      source: https://web.archive.org/web/20161010062846/http://www.charlotteobserver.com/news/politics-government/campaign-tracker-blog/article106933257.html
+    pre-video:
+      position: SUPPORTING
+      source: https://web.archive.org/web/20160811131911/http://www.newsobserver.com/news/politics-government/state-politics/article94859242.html
+  profile:
+    id: B001135
+    name: Richard Burr
+    state: NC
+    title: sen
+- events:
+    post-video:
+      position: CONDEMN_SUPPORTING
+      source: https://web.archive.org/web/20161010063342/https://twitter.com/CapitoforWV/status/784787940593369088
+    pre-video:
+      position: SUPPORTING
+      source: https://web.archive.org/web/20160512081806/http://wvmetronews.com/2016/05/11/capito-to-meet-with-trump-thursday/
+  profile:
+    id: C001047
+    name: Shelley Moore Capito
+    state: WV
+    title: sen
+- events:
+    post-video:
+      position: CONDEMN_SUPPORTING
+      source: https://web.archive.org/web/20161010063935/https://twitter.com/BillCassidy/status/784600411843993600
+    pre-video:
+      position: SUPPORTING
+      source: https://web.archive.org/web/20160809043841/http://www.cnn.com/2016/06/07/politics/donald-trump-hill-republicans/
+  profile:
+    id: C001075
+    name: Bill Cassidy
+    state: LA
+    title: sen
+- events:
+    post-video:
+      position: CONDEMN_SUPPORTING
+      source: https://web.archive.org/web/20161010064446/https://twitter.com/SenDanCoats/status/784759408039460864
+    pre-video:
+      position: SUPPORTING
+      source: https://web.archive.org/web/20160923014447/http://www.politico.com/story/2016/09/ted-cruz-donald-trump-endorsement-228540
+  profile:
+    id: C000542
+    name: Daniel Coats
+    state: IN
+    title: sen
+- events:
+    post-video:
+      position: STEP_DOWN
+      source: https://web.archive.org/web/20161009014351/https:/twitter.com/MikeCrapo/status/784773920192798720
+    pre-video:
+      position: SUPPORTING
+      source: https://web.archive.org/web/20160721114350/http://www.kmvt.com/content/news/Sen-Crapo-congratulates-Trump-on-GOP-presidential-nomination-387655192.html
+  profile:
+    id: C000880
+    name: Mike Crapo
+    state: ID
+    title: sen
+- events:
+    post-video:
+      position: STEP_DOWN
+      source: https://web.archive.org/web/20161010065402/https://twitter.com/JeffFlake/status/784787317311627264
+    pre-video:
+      position: UNCOMMITTED
+      source: https://web.archive.org/web/20160907083403/http://www.politico.com/story/2016/09/jeff-flake-trump-warns-gop-227784
+  profile:
+    id: F000444
+    name: Jeff Flake
+    state: AZ
+    title: sen
+- events:
+    post-video:
+      position: STEP_DOWN
+      source: https://web.archive.org/web/20161009064446/https:/twitter.com/CoryGardner/status/784831764413968384
+    pre-video:
+      position: SUPPORTING
+      source: https://web.archive.org/web/20161008032604/http://www.denverpost.com/2016/08/16/cory-gardner-endorses-donald-trump/
+  profile:
+    id: G000562
+    name: Cory Gardner
+    state: CO
+    title: sen
+- events:
+    post-video:
+      position: CONDEMN_SUPPORTING
+      source: https://web.archive.org/web/20161009164544/http://whotv.com/2016/10/08/iowa-republicans-condemn-trump-for-lewd-comments-without-withdrawing-their-support/
+    pre-video:
+      position: SUPPORTING
+      source: https://web.archive.org/web/20161005165254/https://www.radioiowa.com/2016/08/09/grassley-stay-firm-in-his-support-of-donald-trump/
+  profile:
+    id: G000386
+    name: Chuck Grassley
+    state: IA
+    title: sen
+- events:
+    post-video:
+      position: CONDEMN_SUPPORTING
+      source: https://web.archive.org/web/20161010082454/http://kfgo.com/news/articles/2016/oct/09/north-dakota-congressional-delegation-on-trump-video/
+    pre-video:
+      position: SUPPORTING
+      source: https://web.archive.org/web/20160809151556/http://www.kfyrtv.com/content/news/Sen-John-Hoeven-speaks-on-Donald-Trump-389436561.html
+  profile:
+    id: H001061
+    name: John Hoeven
+    state: ND
+    title: sen
+- events:
+    post-video:
+      position: CONDEMN_SUPPORTING
+      source: https://web.archive.org/web/20161009164413/http://politics.blog.ajc.com/2016/10/08/georgia-republicans-leaders-slam-donald-trump-but-still-stand-by-him/
+    pre-video:
+      position: SUPPORTING
+      source: https://web.archive.org/web/20160812181536/http://politics.blog.ajc.com/2016/08/11/johnny-isaksons-no-apologies-approach-to-donald-trump/
+  profile:
+    id: I000055
+    name: Johnny Isakson
+    state: GA
+    title: sen
+- events:
+    post-video:
+      position: CONDEMN_SUPPORTING
+      source: https://web.archive.org/web/20161010083552/http://www.wpr.org/ryan-walker-and-johnson-condemn-trumps-comments-women
+    pre-video:
+      position: SUPPORTING
+      source: https://web.archive.org/web/20160620170002/http://www.cnn.com/2016/06/19/politics/ron-johnson-donald-trump-support/
+  profile:
+    id: J000293
+    name: Ron Johnson
+    state: WI
+    title: sen
+- events:
+    post-video:
+      position: STEP_DOWN
+      source: https://web.archive.org/web/20161008010314/https://twitter.com/SenatorKirk/status/784555457255964672
+    pre-video:
+      position: NOT_SUPPORTING
+      source: https://web.archive.org/web/20161008114643/http://www.politico.com/story/2016/06/mark-kirk-trump-racist-224427
+  profile:
+    id: K000360
+    name: Mark Kirk
+    state: IL
+    title: sen
+- events:
+    post-video:
+      position: CONDEMN_SUPPORTING
+      source: http://www.tulsaworld.com/homepagelatest/oklahomans-react-to-trump-s-insulting-comments-about-women/article_93352374-2213-5065-aa84-85dfcdc68771.html
+    pre-video:
+      position: SUPPORTING
+      source: https://web.archive.org/web/20161007151919/http://www.politico.com/story/2016/09/mike-pence-congress-republicans-228920
+  profile:
+    id: L000575
+    name: James Lankford
+    state: OK
+    title: sen
+- events:
+    post-video:
+      position: STEP_DOWN
+      source: https://web.archive.org/web/20161010085226/http://www.sltrib.com/news/4448500-155/utahs-lee-says-trump-cant-win
+    pre-video:
+      position: UNCOMMITTED
+      source: https://web.archive.org/web/20160902190107/http://kuer.org/post/senator-mike-lee-witholds-trump-endorsement-invites-trump-running-mate-speak-slc
+  profile:
+    id: L000577
+    name: Mike Lee
+    state: UT
+    title: sen
+- events:
+    post-video:
+      position: NOT_SUPPORTING
+      source: https://web.archive.org/web/20161009091631/http://www.mccain.senate.gov/public/index.cfm/2016/10/statement-by-senator-john-mccain-withdrawing-support-of-donald-trump
+    pre-video:
+      position: SUPPORTING
+      source: https://web.archive.org/web/20160915055128/http://www.latimes.com/nation/politics/trailguide/la-na-trailguide-updates-gold-star-father-urges-sen-john-mccain-1471027891-htmlstory.html
+  profile:
+    id: M000303
+    name: John McCain
+    state: AZ
+    title: sen
+- events:
+    post-video:
+      position: CONDEMN_SUPPORTING
+      source: https://web.archive.org/web/20161009052600/https://twitter.com/jerrymoran/status/784828579842359296
+    pre-video:
+      position: SUPPORTING
+      source: https://web.archive.org/web/20160804223517/http://cjonline.com/news/2016-08-02/sen-jerry-moran-tepid-whether-he-still-supports-donald-trump
+  profile:
+    id: M000934
+    name: Jerry Moran
+    state: KS
+    title: sen
+- events:
+    post-video:
+      position: STEP_DOWN
+      source: https://web.archive.org/web/20161010091237/https://www.lisamurkowski.com/2016/10/sen-murkowski-calls-trump-step-aside/
+    pre-video:
+      position: UNCOMMITTED
+      source: https://web.archive.org/web/20160810145955/http://www.ktuu.com/content/news/Murkowski-undecided-on-whether-shell-vote-for-Trump-389640031.html
+  profile:
+    id: M001153
+    name: Lisa Murkowski
+    state: AK
+    title: sen
+- events:
+    post-video:
+      position: CONDEMN_SUPPORTING
+      source: https://web.archive.org/web/20161010091838/http://wfpl.org/kentucky-republicans-criticize-trump-stop-short-withdrawing-support/
+    pre-video:
+      position: SUPPORTING
+      source: https://web.archive.org/web/20161003112138/https://www.buzzfeed.com/natemcdermott/rand-paul-on-trump-ive-always-said-ill-endorse-the-nominee?utm_term=.sxy0Kzwd1A#.skNogn24vm
+  profile:
+    id: P000603
+    name: Rand Paul
+    state: KY
+    title: sen
+- events:
+    post-video:
+      position: NOT_SUPPORTING
+      source: https://web.archive.org/web/20161010092744/https://www.robportman.com/portman_statement_on_presidential_race
+    pre-video:
+      position: SUPPORTING
+      source: https://web.archive.org/web/20161010093225/http://www.dispatch.com/content/stories/local/2016/08/17/portman-continues-to-keep-his-distance-from-trump.html
+  profile:
+    id: P000449
+    name: Rob Portman
+    state: OH
+    title: sen
+- events:
+    post-video:
+      position: CONDEMN_SUPPORTING
+      source: https://web.archive.org/web/20161009084545/https:/twitter.com/marcorubio/status/784566254271094788
+    pre-video:
+      position: SUPPORTING
+      source: https://web.archive.org/web/20160802084445/http://blogs.wsj.com/washwire/2016/05/29/marco-rubio-concedes-campaign-mistakes-supports-donald-trump/
+  profile:
+    id: R000595
+    name: Marco Rubio
+    state: FL
+    title: sen
+- events:
+    post-video:
+      position: CONDEMN_SUPPORTING
+      source: https://web.archive.org/web/20161010205845/http://www.postandcourier.com/20161010/161019967/north-charleston-mayor-keith-summey-will-no-longer-talk-about-trump
+    pre-video:
+      position: SUPPORTING
+      source: https://web.archive.org/web/20161010094012/http://ijr.com/2016/09/690240-senator-tim-scott-tells-christian-summit-to-vote-for-donald-trump-you-can-vote-for-hope/
+  profile:
+    id: S001184
+    name: Tim Scott
+    state: SC
+    title: sen
+- events:
+    post-video:
+      position: UNKNOWN
+      source: ''
+    pre-video:
+      position: SUPPORTING
+      source: https://web.archive.org/web/20161005013916/http://www.al.com/news/index.ssf/2016/03/sen_richard_shelby_addresses_p.html
+  profile:
+    id: S000320
+    name: Richard C. Shelby
+    state: AL
+    title: sen
+- events:
+    post-video:
+      position: STEP_DOWN_FLIPPED
+      source: https://web.archive.org/web/20161013050632/https://www.washingtonpost.com/news/the-fix/wp/2016/10/12/this-senate-republican-wanted-donald-trump-gone-now-it-looks-like-hell-vote-for-him/
+    pre-video:
+      position: SUPPORTING
+      source: https://web.archive.org/web/20160804190604/http://www.ksfy.com/content/news/Thunes-tough-words-for-Trump-389017152.html
+  profile:
+    id: T000250
+    name: John Thune
+    state: SD
+    title: sen
+- events:
+    post-video:
+      position: CONDEMN_UNCOMMITTED
+      source: https://web.archive.org/web/20161009084129/https:/twitter.com/pattoomey/status/784547845370212352
+    pre-video:
+      position: UNCOMMITTED
+      source: https://web.archive.org/web/20160927125919/http://www.rollcall.com/news/politics/can-toomeys-presidential-non-answer-hold
+  profile:
+    id: T000461
+    name: Patrick J. Toomey
+    state: PA
+    title: sen
+- events:
+    post-video:
+      position: UNKNOWN
+      source: ''
+    pre-video:
+      position: SUPPORTING
+      source: https://web.archive.org/web/20160826062709/http://la.gop/blog/2016/5/5/lagop-chairman-villere-and-la-republican-congressional-leaders-congratulate-donald-trump-and-urge-louisiana-republicans-to-unite-to-defeat-hillary-clinton
+  profile:
+    id: V000127
+    name: David Vitter
+    state: LA
+    title: sen
+- events:
+    post-video:
+      position: CONDEMN_UNCOMMITTED
+      source: https://web.archive.org/web/20161010210524/http://www.politico.com/story/2016/10/mitch-mcconnell-silent-on-trump-229545
+    pre-video:
+      position: UNCOMMITTED
+      source: https://web.archive.org/web/20160919042102/http://lasvegassun.com/news/2016/may/04/sandoval-plans-to-vote-for-trump-after-kasich-drop/
+  profile:
+    id: H001041
+    name: Dean Heller
+    state: NV
+    title: sen
+- events:
+    post-video:
+      position: CONDEMN_SUPPORTING
+      source: https://web.archive.org/web/20161010100648/https://twitter.com/IAStartingLine/status/784914411467132928
+    pre-video:
+      position: SUPPORTING
+      source: https://web.archive.org/web/20160728181743/http://www.theatlantic.com/international/archive/2016/07/tom-cotton-donald-trump/489890/
+  profile:
+    id: C001095
+    name: Tom Cotton
+    state: AR
+    title: sen
+- events:
+    post-video:
+      position: CONDEMN_SUPPORTING
+      source: https://web.archive.org/web/20161010101320/http://billingsgazette.com/news/government-and-politics/zinke-says-trump-s-comments-on-women-wrong-but-will/article_88de40bc-18ce-5a05-9478-b454468388f8.html
+    pre-video:
+      position: SUPPORTING
+      source: https://web.archive.org/web/20160510114546/http://www.ktvq.com/story/31925255/top-montana-republicans-gently-embrace-trump
+  profile:
+    id: D000618
+    name: Steve Daines
+    state: MT
+    title: sen
+- events:
+    post-video:
+      position: STEP_DOWN_FLIPPED
+      source: https://web.archive.org/web/20161012074819/http://www.politico.com/story/2016/10/deb-fischer-donald-trump-229643
+    pre-video:
+      position: SUPPORTING
+      source: https://web.archive.org/web/20161010101844/http://kwbe.com/state-news/sen-deb-fischer-speaks-about-womens-issues-with-ivanka-trump/
+  profile:
+    id: F000463
+    name: Deb Fischer
+    state: NE
+    title: sen
+- events:
+    post-video:
+      position: CONDEMN_SUPPORTING
+      source: https://web.archive.org/web/20161009084313/https:/twitter.com/tedcruz/status/784567958525927426
+    pre-video:
+      position: SUPPORTING
+      source: https://web.archive.org/web/20160926201029/https://www.facebook.com/tedcruzpage/posts/10154476728267464
+  profile:
+    id: C001098
+    name: Ted Cruz
+    state: TX
+    title: sen
+- events:
+    post-video:
+      position: STEP_DOWN
+      source: https://web.archive.org/web/20161009064504/https://twitter.com/SenDanSullivan/status/784821049628196864
+    pre-video:
+      position: SUPPORTING
+      source: https://web.archive.org/web/20160721113153/http://www.adn.com/politics/2016/07/19/alaska-sen-dan-sullivan-rallies-the-crowd-at-rnc/
+  profile:
+    id: S001198
+    name: Daniel Sullivan
+    state: AK
+    title: sen
+- events:
+    post-video:
+      position: CONDEMN_SUPPORTING
+      source: https://web.archive.org/web/20161009164413/http://politics.blog.ajc.com/2016/10/08/georgia-republicans-leaders-slam-donald-trump-but-still-stand-by-him/
+    pre-video:
+      position: SUPPORTING
+      source: https://web.archive.org/web/20160822114524/https://www.washingtonpost.com/news/powerpost/wp/2016/06/01/senator-perdue-donald-trump-proves-its-time-for-an-outsider/
+  profile:
+    id: P000612
+    name: David Perdue
+    state: GA
+    title: sen
+- events:
+    post-video:
+      position: CONDEMN_SUPPORTING
+      source: https://web.archive.org/web/20161010185224/https://twitter.com/joniernst/status/784755439783161856
+    pre-video:
+      position: SUPPORTING
+      source: https://web.archive.org/web/20160829195349/https://www.washingtonpost.com/news/post-politics/wp/2016/08/26/joni-ernst-trump-should-tone-it-down-focus-more-on-issues/
+  profile:
+    id: E000295
+    name: Joni Ernst
+    state: IA
+    title: sen
+- events:
+    post-video:
+      position: CONDEMN_SUPPORTING
+      source: https://web.archive.org/web/20161010202857/https://twitter.com/ThomTillis/status/784763820854108160
+    pre-video:
+      position: SUPPORTING
+      source: https://web.archive.org/web/20160618003722/http://www.newsobserver.com/news/politics-government/state-politics/article76279447.html
+  profile:
+    id: T000476
+    name: Thom Tillis
+    state: NC
+    title: sen
+- events:
+    post-video:
+      position: CONDEMN_SUPPORTING
+      source: https://web.archive.org/web/20161009134139/http://www.ksfy.com/content/news/Daugaard-Thune-call-on-Trump-to-step-down-from-presidential-race-396407481.html
+    pre-video:
+      position: SUPPORTING
+      source: https://web.archive.org/web/20160822054656/http://kelo.com/news/articles/2016/may/04/rounds-and-noem-react-to-trump-train/
+  profile:
+    id: R000605
+    name: Mike Rounds
+    state: SD
+    title: sen
+- events:
+    post-video:
+      position: STEP_DOWN
+      source: https://web.archive.org/web/20161010204211/https://twitter.com/BenSasse/status/784726683920297984
+    pre-video:
+      position: NOT_SUPPORTING
+      source: https://web.archive.org/web/20160628024830/https://www.facebook.com/sassefornebraska/posts/593031420862025
+  profile:
+    id: S001197
+    name: Ben Sasse
+    state: NE
+    title: sen
+
